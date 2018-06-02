@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+appadvice.com	TRUE	/	FALSE	1999999999	_AppAdviceWebsite_session	ajVsMXdONEFyWXREZHN2d0lTWUUxQk4xZkxiSjErSWlzK21oU0kwbTgwZEhSSUVhUTZtdDlWVkNXYlpRYUF0ZFIrTk9aN0NndWhZb1FYZzdUUmdIQjhIakNRSnE4czc4TXNxS1ppRi9uYy9jZDIvVzE0N1FhMDlSRmx0TjdjYTQzQ3RiUTlzazVaOXdWNnVhZW1hR3FRPT0tLVpLM2s1UVhsaVZsTHZ2SWhDdElqdVE9PQ%3D%3D--e9d5c72128034beef893460c19d43c28bf5ab094
+.appadvice.com	TRUE	/	FALSE	1999999999	__cfduid	db087ce2edfdaa759a9da54d02bbe5f701527960275
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	5b12d2d3-9df2c-db6a7-be279
+
